@@ -1,6 +1,6 @@
 package com.rj.supermarket.controller;
 
-import com.rj.supermarket.model.Product;
+import com.rj.supermarket.domain.model.Product;
 import com.rj.supermarket.service.ProductService;
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.media.Content;

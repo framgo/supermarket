@@ -1,4 +1,4 @@
-package com.rj.supermarket.model;
+package com.rj.supermarket.domain.model;
 
 import com.fasterxml.jackson.annotation.JsonInclude;
 import lombok.AllArgsConstructor;

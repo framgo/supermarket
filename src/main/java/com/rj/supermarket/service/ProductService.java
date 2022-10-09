@@ -1,6 +1,6 @@
 package com.rj.supermarket.service;
 
-import com.rj.supermarket.model.Product;
+import com.rj.supermarket.domain.model.Product;
 import com.rj.supermarket.repository.ProductRepository;
 import java.util.List;
 import java.util.UUID;

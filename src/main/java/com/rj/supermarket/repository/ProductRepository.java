@@ -1,6 +1,6 @@
 package com.rj.supermarket.repository;
 
-import com.rj.supermarket.model.Product;
+import com.rj.supermarket.domain.model.Product;
 import java.util.UUID;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Modifying;
